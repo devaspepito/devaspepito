@@ -11,7 +11,7 @@
         I'm Sr.mrx, a Student, I like PC's and Linux, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+program+small+things+that+become+big.">
       <br>
       <b>
         ~ Brayan Ocampo Lopez ~
@@ -51,7 +51,6 @@
   <table>
     <tr>
       <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=mrxDevelop&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-      <td><a src="https://github-readme-stats.vercel.app/api?username=mrxDevelop&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"></a></td>
     </tr>
   </table>
 </div>
@@ -61,23 +60,20 @@
   <table>
     <tr>
       <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxDevelop&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" aling="center" alt="" src="https://github-readme-stats.vercel.app/api?username=mrxDevelop&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
     </tr>
   </table>
 </div>
 
 <!-- Interesanting -->
-<div aling="center">
-    <table>
-        <tr>
-            <td>
-                - 👋 Hi, I’m @Sr.mrx
-                - 👀 I’m interested in programming and operatives systems
-                - 🌱 I’m currently learning english, React, NodeJS, Angular and Data Science
-                - 💞️ I’m looking to collaborate on CropVision
-            </td>
-        </tr>
-    </table>
-</div>
+<p align="center">
+    <samp>
+        - 👋 Hi, I’m @Sr.mrx<br>
+        - 👀 I’m interested in programming and operatives systems<br>
+        - 🌱 I’m currently learning english, React, NodeJS, Angular and Data Science<br>
+        - 💞️ I’m looking to collaborate on CropVision<br>
+    </samp>
+</p>
 
 </details>
 </div>
