@@ -69,7 +69,6 @@
 <p align="center">
     <samp>
         - 👋 Hi, I’m @Sr.mrx<br>
-        - 👀 I’m interested in programming and operatives systems<br>
         - 🌱 I’m currently learning english, React, NodeJS, Angular and Data Science<br>
         - 💞️ I’m looking to collaborate on CropVision<br>
     </samp>
