@@ -11,7 +11,7 @@
         I'm Sr.mrx, a Student, I like PC's and Linux, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+program+small+things+that+become+big.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=464646&center=true&width=410&height=45&lines=I+program+small+things+that+become+big.">
       <br>
       <b>
         ~ Brayan Ocampo Lopez ~
