@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Sr.mrx, a Student, I like PC's and Linux, but I don't like Windows.
+        I'm Sr.mrx, a Programming Student, I like PC's and Operatives Systems.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=464646&center=true&width=410&height=45&lines=I+program+small+things+that+become+big.">
@@ -69,8 +69,8 @@
 <p align="center">
     <samp>
         - 👀 I’m interested in programming and operatives systems<br>
-        - 🌱 I’m currently learning english, React, NodeJS, Angular and Data Science<br>
-        - 💞️ I’m looking to collaborate on CropVision<br>
+        - 🌱 I’m currently learning english, React, NodeJS, Angular, TailwindCSS and MongoDB<br>
+        <!-- - 💞️ I’m looking to collaborate on CropVision<br> -->
     </samp>
 </p>
 
