@@ -13,7 +13,7 @@
 
 ```
 
-![user](https://img.shields.io/badge/User-devasmrx-black)
+![user](https://img.shields.io/badge/User-devaspepito-black)
 
 ### Hey!
 
@@ -37,3 +37,4 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
 ![Boostrap5](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap&color=grey)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
+![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
