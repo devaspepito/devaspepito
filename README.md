@@ -23,10 +23,8 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=grey)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=grey)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&color=grey)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&color=grey)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&color=grey)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=grey)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=grey)
 
 ### Technologies
