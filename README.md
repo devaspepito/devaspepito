@@ -12,14 +12,12 @@
 
 
 ```
-
-![user](https://img.shields.io/badge/User-devaspepito-black)
-
-### Hey!
+<div align="center">
+<h3 align="center">Hey!</h3>
 
 I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**.
 
-### Languages
+<h3 align="center">Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=grey)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=grey)
@@ -27,7 +25,7 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&color=grey)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=grey)
 
-### Technologies
+<h3 align="center">Technologies</h3>
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=grey)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&color=grey)
@@ -35,12 +33,11 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
 ![Boostrap5](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap&color=grey)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/devaspepito">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devaspepito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devaspepito&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  </div>
+  <div align="center">
+	<h3 align="center">⚙️ Git Stats</h3>
+	<br>
+	<img src="https://gh-readme-profile.vercel.app/api?username=devaspepito&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&hide=prs_merged,contributed&show=issues_closed" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaspepito&layout=compact&show_icons=true&bg_color=03121F&border_radius=8&title_color=81959F&icon_color=81959F&text_color=81959F&hide_border=true&langs_count=5&card_width=420px" />
+</div>
