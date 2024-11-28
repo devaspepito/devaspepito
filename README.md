@@ -12,6 +12,7 @@
 
 
 ```
+
 <div align="center">
 <h3 align="center">Hey!</h3>
 
@@ -33,6 +34,7 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
 ![Boostrap5](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap&color=grey)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
+
   </div>
   <div align="center">
 	<h3 align="center">⚙️ Git Stats</h3>
