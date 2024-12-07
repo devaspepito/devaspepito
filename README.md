@@ -36,13 +36,14 @@ I am a Software Developer, I love **GNU/Linux**, **CustomRom's** and **OS lite**
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
 
   </div>
+
   <div align="center">
 	<h3 align="center">⚙️ Git Stats</h3>
-	  <details>
-		  <summary> </summary>
-<br>
-    <img src="https://gh-readme-profile.vercel.app/api?username=devaspepito&bg_color=151515&title_color=8da3b9&text_color=bfb6b6&icon_color=8b5f95&border_color=607e9a&stroke_color=bfb6b6&username_color=da9697" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaspepito&layout=compact&show_icons=true&bg_color=151515&border_radius=8&title_color=8da3b9&icon_color=81959F&text_color=81959F&border_color=607e9a&langs_count=5&card_width=420px" />
-	  </details>
+	<details>
+		<summary> </summary>
+        <br>
+        <img src="https://gh-readme-profile.vercel.app/api?username=devaspepito&bg_color=151515&title_color=8da3b9&text_color=bfb6b6&icon_color=8b5f95&border_color=607e9a&stroke_color=bfb6b6&username_color=da9697" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaspepito&layout=compact&show_icons=true&bg_color=151515&border_radius=8&title_color=8da3b9&icon_color=81959F&text_color=81959F&border_color=607e9a&langs_count=5&card_width=420px" />
+    </details>
 </div>
